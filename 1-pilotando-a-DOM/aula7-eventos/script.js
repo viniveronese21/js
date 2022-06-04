@@ -17,7 +17,7 @@ print = () => {
 
 
 
-// onKeyDown, onKeyPress onKeyUp
+// onkeydown, onkeypress onkeyup
 // input.onkeypress = function () {
 //     console.log('rodei')
 // }
